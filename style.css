@@ -76,8 +76,13 @@ button:active {
 
 }
 
-.twitter-button:hover{
+.twitter-button:hover {
     color: #38a1f3;
+
+}
+
+.fa-twitter{
+    font-size: 1.5rem;
     
 }
 
